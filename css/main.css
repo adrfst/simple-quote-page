@@ -1,0 +1,39 @@
+* {
+   box-sizing: border-box;
+}
+
+body {
+   
+    height: 100vh;
+    width: 100vw;
+    background-repeat:   no-repeat;
+    background-position: 70% 30%;
+    padding: 30vh 0rem 30vh 0vw;
+    background-image: url('https://codeberryschool.github.io/simple-quote-page/assets/freedom.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.quote {
+	
+	  text-align: center;
+    
+    font-family:  'Julius Sans One', sans-serif;
+    font-size: 2.5rem;
+    margin: 0;
+    padding: 7rem 5vw 0rem 5vw;
+	
+}
+
+.author {
+	
+	  text-align: center;
+    
+	  font-style: italic;
+    font-size: 1.2rem;
+    margin: 0;
+    padding: 1rem 0rem 0rem 0vw;
+	
+}
